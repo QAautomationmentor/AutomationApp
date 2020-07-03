@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-02T16:14:34 IST" name="Suite" finished-at="2020-07-02T16:15:30 IST" duration-ms="55992">
+    <groups>
+    </groups>
+    <test started-at="2020-07-02T16:14:34 IST" name="Test" finished-at="2020-07-02T16:15:30 IST" duration-ms="55992">
+      <class name="testcases.Test3">
+        <test-method signature="facelookLogin()[pri:0, instance:testcases.Test3@6ab778a]" started-at="2020-07-02T16:14:35 IST" name="facelookLogin" finished-at="2020-07-02T16:15:30 IST" duration-ms="54769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facelookLogin -->
+      </class> <!-- testcases.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
