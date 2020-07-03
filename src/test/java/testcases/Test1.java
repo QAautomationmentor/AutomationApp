@@ -12,6 +12,8 @@ public class Test1 extends Base{
 		driver=initializeDriver();
 		driver.get("https://www.rahulshettyacademy.com/");
 		System.out.println("Test1 Title : "+driver.getTitle());
+		System.out.println("URL : "+driver.getCurrentUrl());
+		System.out.println("just added code");
 		driver.close();
 	}
 }
